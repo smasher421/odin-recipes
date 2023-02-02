@@ -13,4 +13,8 @@ Objectives:
 
 
 Results:
-(to be updated)
+Created a website using just HTML
+Added 3 different pages
+Learned the basics of Git commit + push
+Updated every change constantly
+Ready to continue along with CS.
